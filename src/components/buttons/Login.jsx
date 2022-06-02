@@ -5,7 +5,7 @@ const Login = () => {
         <>
             {/* <!-- Button trigger modal --> */}
             <button type="button" className="btn btn-outline-primary ms-auto" data-bs-toggle="modal" data-bs-target="#loginModal">
-               <span className="fa fa-sign-in me-1"></span> Login
+               <span className="fa fa-sign-in me-1"></span>Daxil ol
             </button>
 
             {/* <!-- Modal --> */}

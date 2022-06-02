@@ -186,14 +186,14 @@ const Checkout = () => {
                                     <label htmlFor="cc-cvv" className="form-label">CVV</label>
                                     <input type="text" className="form-control" id="cc-cvv" placeholder="" required="" />
                                     <div className="invalid-feedback">
-                                        Security code required
+                                    Təhlükəsizlik kodu tələb olunur
                                     </div>
                                 </div>
                             </div>
 
                             <hr className="my-4" />
 
-                            <button className="w-100 btn btn-primary btn-lg" type="submit">Continue to checkout</button>
+                            <button className="w-100 btn btn-primary btn-lg" type="submit">Yoxlamaya davam edin</button>
                         </form>
                     </div>
                 </div>

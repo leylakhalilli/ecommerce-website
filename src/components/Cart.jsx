@@ -24,7 +24,7 @@ const Cart = () => {
                         </div>
                         <div className="col-md-4">
                             <h3>{cartItem.title}</h3>
-                            <p className="lead fw-bold">${cartItem.price}</p>
+                            <p className="lead fw-bold">{cartItem.price}</p>
                         </div>
                     </div>
                 </div>
@@ -37,7 +37,7 @@ const Cart = () => {
             <div className="px-4 my-5 bg-light rounded-3 py-5">
                 <div className="container py-4">
                     <div className="row">
-                        <h3>Your Cart is Empty</h3>
+                        <h3>Səbət boşdur</h3>
                     </div>
                     </div>
                 </div>
@@ -48,7 +48,7 @@ const Cart = () => {
         return(
             <div className="container">
                 <div className="row">
-                    <NavLink to="/checkout" className="btn btn-outline-primary mb-5 w-25 mx-auto">Proceed To checkout</NavLink>
+                    <NavLink to="/checkout" className="btn btn-outline-primary mb-5 w-25 mx-auto">Yoxlayın</NavLink>
                 </div>
             </div>
         );
