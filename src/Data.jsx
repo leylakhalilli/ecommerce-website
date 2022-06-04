@@ -2,14 +2,14 @@ const DATA = [
     {
         id : 0,
         title : "IPhone 11",
-        price : 750,
+        price : 2050 ,
         desc : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
         img : "/assets/images/products/iphone11.png"
     },
     {
         id : 1,
         title : "IPhone 11 Pro Max",
-        price : 800,
+        price : 2200,
         desc : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
         img : "/assets/images/products/iphone11promax.png"
     },
@@ -40,6 +40,41 @@ const DATA = [
         price : 1250,
         desc : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
         img : "/assets/images/products/iphone12promax.png"
+    },
+    {
+        id : 6,
+        title : "IPhone 13 Pro Max",
+        price : 4250,
+        desc : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+        img : "/assets/images/products/iphone_13_pro_max.jpg"
+    },
+    {
+        id : 7,
+        title : "IPhone 13 Pro ",
+        price : 2250,
+        desc : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+        img : "/assets/images/products/iphone13pro.webp"
+    },
+    {
+        id : 8,
+        title : "IPhone 13  ",
+        price : 2000,
+        desc : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+        img : "/assets/images/products/iphone13.webp"
+    },
+    {
+        id : 9,
+        title : "IPhone X  ",
+        price : 1000,
+        desc : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+        img : "/assets/images/products/iphonex.jpg"
+    },
+    {
+        id : 9,
+        title : "IPhone XS max  ",
+        price : 1500,
+        desc : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
+        img : "/assets/images/products/iphonexsmax.jpg"
     }
 ]
 
